@@ -1,6 +1,5 @@
-# Google-Appscripts-text2speech-for-Form-to-Sheets-to-drive
-This is a Google Appscript's script to convert Google Form submitted data to be converted into audio file and store Google drive.
-
+# Form2Audio: Google App Script for Converting Form Data to Audio and Storing in Google Drive
+Explore the power of Form2Audio, a Google Apps Script that transforms Google Form responses into human-like paragraphs using Google Bard AI. This integration enhances the conversion of questions and answers into natural language, creating a seamless and engaging audio experience. Store the narrated content effortlessly in Google Drive, making data accessibility a breeze. Customize and elevate your form data processing with the combined capabilities of Form2Audio and Google Bard AI!
 ## Authors
 
 - [@ Farhad Sami ](https://github.com/Farhad-Sami)
