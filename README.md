@@ -7,4 +7,4 @@ This is a Google Appscript's script to convert Google Form submitted data to be 
 
 ## Simple demo
 
-- [@ Automation demo ](https://i.imgur.com/XaawPWX.gif)
+![Alt Text](https://i.imgur.com/XaawPWX.gif)
